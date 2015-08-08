@@ -1,0 +1,27 @@
+{
+  "name": "CheckboxR",
+  "title": "Checkboxr",
+  "description": "Checkbox Radio",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mubtxs/checkboxr",
+  "author": {
+    "name": "mubtxs",
+    "email": "mubtxs.android@gmail.com",
+    "url": "#"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mubtxs/checkboxr"
+  },
+  "bugs": "https://github.com/mubtxs/checkboxr/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mubtxs/checkboxr/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "2.1.0"
+  },
+  "keywords": []
+}
