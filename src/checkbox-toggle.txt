@@ -1,0 +1,19 @@
+## checkbox-toggle
+
+###class="radioable" 
+- root class
+
+###element "checkbox"
+- checkbox element
+
+###data-check="1" @root|element
+- max number of concurrent choices. 
+- default = 1
+
+###data-style="block|radio|toggle" @root|element
+- effect when max concurrent choices reached
+- default = radio
+
+> block = cannot choose any more till max choice is unchecked
+> radio = like radio buttons
+> toggle = uncheck last max choice. like 'radio' when data-check = 1
